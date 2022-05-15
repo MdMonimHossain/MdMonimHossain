@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm a learner and self-motivated individual who is always looking for new challenges and opportunities. Seeking to learn new things and improve my skills with a focus on collaboration, communication, and creativity.
+### About Me 😄
+I'm a learner and self-motivated individual who is always looking for new challenges and opportunities. Seeking to learn new things and improve my skills with a focus on collaboration, communication, and creativity.
