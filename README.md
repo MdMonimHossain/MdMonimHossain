@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 
 ### About Me 😄
 I am a self-motivated individual who is always looking for new challenges and opportunities, seeking to learn new things and improve my skills.
+
+<!-- <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmonimhossain&langs_count=12&layout=compact&theme=holi" alt="mdmonimhossain" /></p> -->
+
+<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmonimhossain&langs_count=12&layout=compact&theme=holi&exclude_repo=Breast-Cancer-Prediction" alt="mdmonimhossain" /></p>
+
+<p align = "center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdmonimhossain&theme=dark" alt="mdmonimhossain" /></p>
