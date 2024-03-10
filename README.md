@@ -20,7 +20,7 @@ I am a self-motivated person who is always looking for new challenges and opport
 
 <!-- <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmonimhossain&langs_count=12&layout=compact&theme=holi" alt="mdmonimhossain" /></p> -->
 
-<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdmonimhossain&show_icons=true&theme=radical&rank_icon=github" alt="mdmonimhossain" /></p>
+<!-- <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdmonimhossain&show_icons=true&theme=radical&rank_icon=github" alt="mdmonimhossain" /></p> -->
 
 <p align = "center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdmonimhossain&theme=radical" alt="mdmonimhossain" /></p>
 
