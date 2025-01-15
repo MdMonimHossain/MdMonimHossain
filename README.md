@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About Me
-I am a self-motivated person who is always looking for new challenges and opportunities, seeking to learn new things and improve my skills.
+I am a backend engineer who is always looking for new challenges and opportunities. Continuously seeking to learn new technologies and improve my skills.
 
 <!-- <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmonimhossain&langs_count=12&layout=compact&theme=holi" alt="mdmonimhossain" /></p> -->
 
@@ -26,4 +25,4 @@ I am a self-motivated person who is always looking for new challenges and opport
 
 <!-- <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmonimhossain&langs_count=12&layout=compact&theme=holi&exclude_repo=Breast-Cancer-Prediction" alt="mdmonimhossain" /></p> -->
 
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdmonimhossain&theme=radical" alt="mdmonimhossain" /></p>
+<p align = "center"><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=MdMonimHossain&theme=radical" alt="mdmonimhossain" /></p>
